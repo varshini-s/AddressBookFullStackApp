@@ -73,6 +73,12 @@ const HomePage = () => {
     }
 
     const deleteContact = (contactId) => {
+        addressBookService.deleteContact(contactId).then((response) =>{
+            getAllContacts();
+ 
+        }).catch(error =>{
+            console.log(error);
+        })
          
      }
 
