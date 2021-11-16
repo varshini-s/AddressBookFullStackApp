@@ -13,8 +13,17 @@ import {
 function App() {
   return (
     <div className="App">
-      hello world
-    </div>
+      <Router>
+        <Switch>
+          <Route exact path="/"><HomePage/></Route>
+          <Route exact path="/home"><HomePage/></Route>
+
+          <Route exact path="/address-form"><AddressForm/></Route>
+          <Route path = "/edit-contact/:id"><AddressForm/></Route>
+
+
+        </Switch>
+      </Router>    </div>
   );
 }
 
