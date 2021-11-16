@@ -17,3 +17,12 @@ class AxiosService{
     {
         return  axios.put(url,data)
     }
+
+    deleteService(url='')
+    {
+        return  axios.delete(url);
+        
+    }
+}
+
+module.exports= new AxiosService()
