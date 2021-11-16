@@ -127,7 +127,52 @@ const AddressForm=()=>{
     }
 
     const save = (event)=>{
-         
+        event.preventDefault();
+        console.log("save");
+
+        if(isError)
+        {
+            console.log('error',formValue);
+            return;
+        }
+    
+        let object ={
+    
+            name:formValue.name,
+            phoneNumber:formValue.phoneNumber,
+            address:formValue.address,
+            city:formValue.city,
+            state:formValue.state,
+            zip:formValue.zip
+        }
+        //if link doesnt contain id, returns as undefined
+        if(id)
+        {
+            addressBookService.updateContact(id, object).then((response) => {
+                console.log("update success"+response)
+                history.push('/')
+            }).catch(error => {
+                console.log(error)
+            })
+
+        }
+        else 
+       {
+        addressBookService.addContact(object).then(data=>{
+            console.log("data added"+object);
+            history.push('/');
+            setDisplayeMessage("Successfullly added User")
+            setTimeout(()=>{
+                window.location.reload();},3000);
+            
+        })
+        .catch(err =>{
+            console.log("err while add"+err.response);
+            setDisplayeMessage("Error while  adding")
+
+        })
+           
+       }  
 
     }
 
