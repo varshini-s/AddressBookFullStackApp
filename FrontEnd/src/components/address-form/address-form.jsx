@@ -48,6 +48,26 @@ const AddressForm=()=>{
     const {id} = useParams();
 
 
+    useEffect(() => {
+
+
+        addressBookService.getContactById(id).then((response) =>
+        {
+            console.log(response.data.data.department)
+            
+
+            setForm({...formValue,
+                    name:response.data.data.name,
+                    phoneNumber:response.data.data.phoneNumber,
+                    address:response.data.data.address,
+                    city:response.data.data.city,
+                    state:response.data.data.state,
+                    zip:response.data.data.zip});
+
+        }).catch(error => {
+            console.log(error)
+        })
+    }, [])
 
 
 
