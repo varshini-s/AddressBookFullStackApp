@@ -13,4 +13,7 @@ class AxiosService{
         return   axios.get(url)
     }
 
-}
+    putService(url='',data)
+    {
+        return  axios.put(url,data)
+    }
