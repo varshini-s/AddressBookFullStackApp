@@ -8,5 +8,9 @@ class AxiosService{
         return axios.post(url,contact)
     }
 
+    getService(url='')
+    {
+        return   axios.get(url)
+    }
 
 }
