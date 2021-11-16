@@ -1,0 +1,394 @@
+2021-11-05 18:28:58.621  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:28:58.622 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:28:58.622  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : No active profile set, falling back to default profiles: default
+2021-11-05 18:28:58.750  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:28:58.776  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:28:58.809  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.221 seconds (JVM running for 8170.788)
+2021-11-05 18:28:58.810  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Addressbook App started
+2021-11-05 18:29:14.556  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:29:14.558 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:29:14.558  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : No active profile set, falling back to default profiles: default
+2021-11-05 18:29:14.702  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:29:14.727  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:29:14.759  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.242 seconds (JVM running for 8186.738)
+2021-11-05 18:29:14.760  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Addressbook App started
+2021-11-05 18:31:59.387  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:31:59.388 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:31:59.388  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : No active profile set, falling back to default profiles: default
+2021-11-05 18:31:59.509  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:31:59.534  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:31:59.567  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.195 seconds (JVM running for 8351.546)
+2021-11-05 18:31:59.568  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Addressbook App started
+2021-11-05 18:33:12.317  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:33:12.318 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:33:12.318  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : No active profile set, falling back to default profiles: default
+2021-11-05 18:33:12.442  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:33:12.468  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:33:12.501  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.203 seconds (JVM running for 8424.48)
+2021-11-05 18:33:12.502  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Addressbook App started
+2021-11-05 18:35:12.653  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:35:12.653 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:35:12.653  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 18:35:12.800  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:35:12.825  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:35:12.857  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.252 seconds (JVM running for 8544.836)
+2021-11-05 18:35:12.858  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 18:35:52.557  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:35:52.557 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:35:52.557  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 18:35:52.684  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:35:52.709  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:35:52.746  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.211 seconds (JVM running for 8584.725)
+2021-11-05 18:35:52.747  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 18:35:54.441  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:35:54.442 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:35:54.442  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 18:35:54.584  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:35:54.609  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:35:54.641  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.23 seconds (JVM running for 8586.619)
+2021-11-05 18:35:54.641  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 18:35:56.312  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:35:56.312 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:35:56.313  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 18:35:56.522  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:35:56.552  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:35:56.594  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.318 seconds (JVM running for 8588.572)
+2021-11-05 18:35:56.595  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 18:36:05.228  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:36:05.229 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:36:05.229  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 18:36:05.416  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:36:05.446  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:36:05.483  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.276 seconds (JVM running for 8597.462)
+2021-11-05 18:36:05.485  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 18:38:35.413  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:38:35.413 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:38:35.413  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : No active profile set, falling back to default profiles: default
+2021-11-05 18:38:35.540  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:38:35.565  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:38:35.597  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.194 seconds (JVM running for 8747.576)
+2021-11-05 18:38:35.598  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Addressbook App started
+2021-11-05 18:38:38.311  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:38:38.312 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:38:38.312  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 18:38:38.477  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:38:38.502  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:38:38.539  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.263 seconds (JVM running for 8750.517)
+2021-11-05 18:38:38.540  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 18:39:57.138  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:39:57.138 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:39:57.138  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 18:39:57.274  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:39:57.299  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:39:57.332  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.227 seconds (JVM running for 8829.311)
+2021-11-05 18:39:57.333  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 18:41:18.406  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:41:18.406 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:41:18.406  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 18:41:18.546  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:41:18.572  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:41:18.608  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.221 seconds (JVM running for 8910.587)
+2021-11-05 18:41:18.609  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 18:41:22.175  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:41:22.176 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:41:22.176  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 18:41:22.339  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:41:22.367  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:41:22.399  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.238 seconds (JVM running for 8914.378)
+2021-11-05 18:41:22.400  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 18:41:30.956  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:41:30.956 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:41:30.956  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 18:41:31.076  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:41:31.108  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:41:31.145  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.201 seconds (JVM running for 8923.123)
+2021-11-05 18:41:31.145  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 18:41:35.736  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 18:41:35.737 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 18:41:35.737  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 18:41:35.871  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 18:41:35.898  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 18:41:35.934  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.218 seconds (JVM running for 8927.913)
+2021-11-05 18:41:35.935  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 20:15:31.331  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 20:15:31.332 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 20:15:31.332  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 20:15:31.468  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 20:15:31.560  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 20:15:31.600  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.288 seconds (JVM running for 10661.203)
+2021-11-05 20:15:31.601  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 20:15:42.211  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 20:15:42.211 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 20:15:42.211  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 20:15:42.340  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 20:15:43.357 ERROR 10049 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-312 - Exception during pool initialization.
+
+java.sql.SQLSyntaxErrorException: Access denied for user 'payrolluser'@'%' to database 'addressbook_db'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112) ~[HikariCP-4.0.3.jar:na]
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[spring-context-5.3.12.jar:5.3.12]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908) ~[spring-context-5.3.12.jar:5.3.12]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.12.jar:5.3.12]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332) ~[spring-boot-2.5.6.jar:2.5.6]
+	at com.bridgelabz.addressbook.AddressBookApplication.main(AddressBookApplication.java:16) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.5.6.jar:2.5.6]
+
+2021-11-05 20:15:43.358 ERROR 10049 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+2021-11-05 20:15:43.358  WARN 10049 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+2021-11-05 20:15:43.373 ERROR 10049 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[spring-context-5.3.12.jar:5.3.12]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908) ~[spring-context-5.3.12.jar:5.3.12]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.12.jar:5.3.12]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332) ~[spring-boot-2.5.6.jar:2.5.6]
+	at com.bridgelabz.addressbook.AddressBookApplication.main(AddressBookApplication.java:16) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.5.6.jar:2.5.6]
+Caused by: org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:275) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800) ~[spring-beans-5.3.12.jar:5.3.12]
+	... 21 common frames omitted
+Caused by: org.hibernate.HibernateException: Access to DialectResolutionInfo cannot be null when 'hibernate.dialect' not set
+	at org.hibernate.engine.jdbc.dialect.internal.DialectFactoryImpl.determineDialect(DialectFactoryImpl.java:100) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.engine.jdbc.dialect.internal.DialectFactoryImpl.buildDialect(DialectFactoryImpl.java:54) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:137) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	... 38 common frames omitted
+
+2021-11-05 20:16:08.574  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 20:16:08.575 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 20:16:08.575  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 20:16:08.800  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 20:16:09.810 ERROR 10049 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-313 - Exception during pool initialization.
+
+java.sql.SQLSyntaxErrorException: Access denied for user 'payrolluser'@'%' to database 'addressbook_db'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.27.jar:8.0.27]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[HikariCP-4.0.3.jar:na]
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112) ~[HikariCP-4.0.3.jar:na]
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[spring-context-5.3.12.jar:5.3.12]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908) ~[spring-context-5.3.12.jar:5.3.12]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.12.jar:5.3.12]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332) ~[spring-boot-2.5.6.jar:2.5.6]
+	at com.bridgelabz.addressbook.AddressBookApplication.main(AddressBookApplication.java:16) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.5.6.jar:2.5.6]
+
+2021-11-05 20:16:09.811 ERROR 10049 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Failed to initialize JPA EntityManagerFactory: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+2021-11-05 20:16:09.811  WARN 10049 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+2021-11-05 20:16:09.823 ERROR 10049 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[spring-context-5.3.12.jar:5.3.12]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908) ~[spring-context-5.3.12.jar:5.3.12]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[spring-context-5.3.12.jar:5.3.12]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-2.5.6.jar:2.5.6]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332) ~[spring-boot-2.5.6.jar:2.5.6]
+	at com.bridgelabz.addressbook.AddressBookApplication.main(AddressBookApplication.java:16) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) ~[spring-boot-devtools-2.5.6.jar:2.5.6]
+Caused by: org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:275) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[spring-orm-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863) ~[spring-beans-5.3.12.jar:5.3.12]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800) ~[spring-beans-5.3.12.jar:5.3.12]
+	... 21 common frames omitted
+Caused by: org.hibernate.HibernateException: Access to DialectResolutionInfo cannot be null when 'hibernate.dialect' not set
+	at org.hibernate.engine.jdbc.dialect.internal.DialectFactoryImpl.determineDialect(DialectFactoryImpl.java:100) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.engine.jdbc.dialect.internal.DialectFactoryImpl.buildDialect(DialectFactoryImpl.java:54) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:137) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263) ~[hibernate-core-5.4.32.Final.jar:5.4.32.Final]
+	... 38 common frames omitted
+
+2021-11-05 20:16:15.278  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 20:16:15.278 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 20:16:15.278  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 20:16:15.503  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 20:16:15.545  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 20:16:15.584  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.347 seconds (JVM running for 10704.455)
+2021-11-05 20:16:15.586  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 20:16:19.169  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 20:16:19.169 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 20:16:19.169  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 20:16:19.297  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 20:16:19.325  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 20:16:19.358  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.206 seconds (JVM running for 10708.229)
+2021-11-05 20:16:19.359  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 20:16:27.010  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 20:16:27.011 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 20:16:27.011  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 20:16:27.174  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 20:16:27.210  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.225 seconds (JVM running for 10716.081)
+2021-11-05 20:16:27.211  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 20:16:28.780  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 20:16:28.780 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 20:16:28.780  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 20:16:28.935  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 20:16:28.967  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.202 seconds (JVM running for 10717.837)
+2021-11-05 20:16:28.967  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment
+2021-11-05 20:18:29.380  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Starting AddressBookApplication using Java 11.0.11 on Varshini-Latitude-5511 with PID 10049 (/home/varshini/Documents/Brigelabz/SpringBoot/addressbook/target/classes started by varshini in /home/varshini/Documents/Brigelabz/SpringBoot/addressbook)
+2021-11-05 20:18:29.380 DEBUG 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-05 20:18:29.380  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : The following profiles are active: prod
+2021-11-05 20:18:29.479  WARN 10049 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-05 20:18:29.499  WARN 10049 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-05 20:18:29.522  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : Started AddressBookApplication in 0.153 seconds (JVM running for 10838.393)
+2021-11-05 20:18:29.523  INFO 10049 --- [restartedMain] c.b.addressbook.AddressBookApplication   : AddressBook  app started in PROD Environment

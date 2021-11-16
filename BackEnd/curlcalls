@@ -1,0 +1,15 @@
+curl localhost:8080/addressbookservice/ -w "\n"
+curl localhost:8080/addressbookservice/get/1 -w "\n"
+curl localhost:8080/addressbookservice/get/11 -w "\n"
+curl localhost:8080/addressbookservice/state/Karnataka -w "\n"
+curl localhost:8080/addressbookservice/city/Bangalore -w "\n"
+
+
+curl -X POST -H "Content-Type: application/json" -d '{"name": "Lisa","address":"abc street,4th cross","phoneNumber":"91 9878976555","city":"Bangalore","state":"Karnataka","zip":"455322"}' "http://localhost:8080/addressbookservice/create" -w "\n”
+curl -X POST -H "Content-Type: application/json" -d '{"name": "Ross Geller","address":"xyz street,4th cross","phoneNumber":"91 8799923133","city":"Mysore","state":"Karnataka","zip":"234123"}' "http://localhost:8080/addressbookservice/create" -w "\n”
+curl -X POST -H "Content-Type: application/json" -d '{"name": "Lisa Anne","address":"abc street,4th cross","phoneNumber":"91 9878976555","city":"Bangalore","state":"Karnataka","zip":"455322"}' "http://localhost:8080/addressbookservice/create" -w "\n”
+curl -X POST -H "Content-Type: application/json" -d '{"name": "j","address":"1234","phoneNumber":"91 878976555","city":"bangalore","state":"karnataka","zip":"123"}' "http://localhost:8080/addressbookservice/create" -w "\n"
+curl -X POST -H "Content-Type: application/json" -d '{"city":"Bangalore","state":"Karnataka","zip":"123"}' "http://localhost:8080/addressbookservice/create" -w "\n"
+curl -X PUT -H "Content-Type: application/json" -d '{"name": "Ted Mosby","address":"abc street,4th cross","phoneNumber":"91 9878976555","city":"Bangalore","state":"Karnataka","zip":"455322"}' "http://localhost:8080/addressbookservice/update/1" -w "\n"
+curl -X DELETE -H "Content-Type: application/json" localhost:8080/addressbookservice/delete/1 -w "\n"
+
