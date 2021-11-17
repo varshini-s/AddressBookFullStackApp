@@ -70,6 +70,12 @@
     margin-top: 8px;
 
 }
+.input:hover,select:hover
+{
+    border-color: #008CFF;
+
+
+}
 .row
 {
     display: flex;
@@ -215,6 +221,12 @@ button
 {
     align-items: flex-end;
     margin:10px 120px;
+}
+.displayMessage
+{
+    color: red;
+    text-align: center;
+    margin-top: 20px;
 }
 @media only screen and (max-width:1800px) 
 {
