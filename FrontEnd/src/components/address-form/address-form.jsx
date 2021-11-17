@@ -40,8 +40,6 @@ const AddressForm=()=>{
     }
 
 
-
-   
     const [formValue,setForm]=useState(initialValue);
     const [displayMessage,setDisplayeMessage]=useState("");
     const history = useHistory();
@@ -165,7 +163,7 @@ const AddressForm=()=>{
             state:formValue.state,
             zip:formValue.zip
         }
-        //if link doesnt contain id, returns as undefined
+
         if(id)
         {
             addressBookService.updateContact(id, object).then((response) => {
@@ -180,10 +178,10 @@ const AddressForm=()=>{
        {
         addressBookService.addContact(object).then(data=>{
             console.log("data added"+object);
-            history.push('/');
             setDisplayeMessage("Successfullly added User")
             setTimeout(()=>{
-                window.location.reload();},3000);
+                history.push('/');},3000);
+            
             
         })
         .catch(err =>{
@@ -237,7 +235,7 @@ const AddressForm=()=>{
 
                     <div className="row">
                         <label className="label text" htmlFor="address">Address</label>
-                        <textarea className="input address" type="text" id="address" name="address" value={formValue.address} onChange={handleChangeEvent} placeholder="Your Address.."/>
+                        <textarea className="input address" type="text" id="address" name="address"  autoComplete="off" value={formValue.address} onChange={handleChangeEvent} placeholder="Your Address.."/>
 
                     </div>
                     <div className="error">{formValue.error.address}</div>
@@ -277,7 +275,7 @@ const AddressForm=()=>{
                                 <div className="label-div">
                                     <label className="label text" htmlFor="zip">Zip</label>
                                 </div>
-                                <input className="input zip" type="text" id="zip" name="zip" value={formValue.zip} onChange={handleChangeEvent} placeholder=" Zip.."/>
+                                <input className="input zip" type="text" id="zip" name="zip"  autoComplete="off" value={formValue.zip} onChange={handleChangeEvent} placeholder="Enter Zip.."/>
                                 <div className=" zip-error">{formValue.error.zip}</div>
 
                             </div>
@@ -290,7 +288,7 @@ const AddressForm=()=>{
                             disabled={(!formValue.name)||(!formValue.phoneNumber)||(!formValue.address)||(!formValue.zip)||(!formValue.state)||(!formValue.city)}>
                             {id?'Update':'Add'}</button>
                             <button type="button" onClick={reset} className="resetButton button"
-                            disabled={(!formValue.name)&&(!formValue.phoneNumber)&&(!formValue.address)&&(!formValue.zip)&&(!formValue.state)&&(!formValue.city)}>
+                            disabled={(!formValue.name)&&(!formValue.phoneNumber)&&(!formValue.address)&&(!formValue.zip)&&(!formValue.state)&&(!formValue.city)&&(!formValue.error)}>
                             Reset</button>
                         </div>
                     </div>
