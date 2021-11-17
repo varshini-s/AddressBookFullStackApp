@@ -40,8 +40,19 @@ public class AddressBookService implements IAddressBookService
     {
         Contact contact = new Contact(contactDTO);
         log.debug("Contact data :"+contact.toString());
-        contactList.add(contact);
-        return addressBookRepository.save(contact);
+        List<Contact> contactlist = this.getContact();
+        if(contactlist.contains(contact))
+        {
+             throw new  AddressBookException("Contact Already exists");
+             
+            
+        }
+        else
+        {
+            contactList.add(contact);
+            return addressBookRepository.save(contact);
+        }
+       
 
     }
 
