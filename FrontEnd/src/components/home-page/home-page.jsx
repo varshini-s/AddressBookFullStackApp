@@ -6,7 +6,6 @@ import './home-page.scss';
 import PageHeader from '../page-header/page-header';
 import editIcon from '../../assets/icons/create-black-18dp.svg'
 import deleteIcon from '../../assets/icons/delete-black-18dp.svg'
-import searchIcon from '../../assets/icons/Search.png'
 import { ReactSearchAutocomplete } from 'react-search-autocomplete'
 import "@fontsource/lato";
 import applcationConstants from '../../config/application-constants';
@@ -99,7 +98,7 @@ const HomePage = () => {
                                 items={items}
                                 onSelect={handleOnSelect}
                                 onClear={getAllContacts}
-                                autoFocus
+                                
                             />
                        </div>
 
